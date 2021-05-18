@@ -1,6 +1,6 @@
 ### Hi and welcome!
 
-Wictor Wilen is the global innovation lead for modern workplace at [Avanade](https://www.avanade.com), recognized as Microsoft Regional Director and SharePoint MVP, as well as an author and a well known international speaker.
+Wictor Wilen works as Business Program Manager at [Microsoft](https://www.microsoft.com). Formerly member of the  Microsoft Regional Director network and a SharePoint MVP for twelve years, as well as an author and a well known international speaker.
 
 - 🔭 I’m currently working on the [Microsoft Teams Yeoman Generator - Yo Teams](https://aka.ms/yoteams)
 - 💬 Ask me about anything related to modern development for the Microsoft 365 platform.
