@@ -1,6 +1,6 @@
 ### Hi and welcome!
 
-Wictor Wilen works as Principal PM in the  [Microsoft](https://www.microsoft.com) People System team, creating highly personalized and AI driven experiences that adapt to the unique interests of our users and the relationships that they have with other people and their content. Formerly member of the  Microsoft Regional Director network and a SharePoint MVP for twelve years, as well as an author and a well known international speaker.
+Wictor Wilen works as Principal PM in the  [Microsoft](https://www.microsoft.com) People System team, creating highly personalized and AI driven experiences that adapt to the unique interests of our users and the relationships that they have with other people and their content. Formerly member of the  Microsoft Regional Director network and a SharePoint MVP for twelve years, as well as an author and a well known international speaker. Before joining the Microsoft mothership I spent two and a half decades as a consultant professional on top of the Microsoft stack, from developer, to architect to innovation lead at global consulting firms.
 
 - 💬 Ask me about anything related to people and profiles for the Microsoft 365 platform.
 - 🔭 I’m the founder of the successful (but now retired) open-source project [Microsoft Teams Yeoman Generator - Yo Teams](https://aka.ms/yoteams)
