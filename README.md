@@ -3,6 +3,7 @@
 Wictor Wilen works as Principal PM (product manager) in the [Microsoft](https://www.microsoft.com) Microsoft 365 people platform team, creating highly personalized and AI driven experiences that adapt to the unique interests of our users and the relationships that they have with other people and their content. Formerly member of the Microsoft Regional Director network and a SharePoint MVP for twelve years, as well as an author and a well known international speaker. Before joining the Microsoft mothership I spent two and a half decades as a consultant professional on top of the Microsoft stack, from developer, to architect to innovation lead at global consulting firms.
 
 - 💬 Ask me about anything related to people and profiles for the Microsoft 365 platform.
+- 🗨️ Createor of the Markdown Review Sidecar Format (MRSF) also known as [Sidemark](https://sidemark.org) - [repo](https://github.com/wictorwilen/mrsf)
 - 🧑‍💻 Creator of the TypeSpec -> Microsoft 365 Copilot Connector generator - [cocogen](https://github.com/wictorwilen/cocogen)
 - ☑️ Creator of the free online RACI editor tool - [raci.app](https://raci.app).
 - 🖼️ Creator of the [Fluent UI icons](https://fluent2.microsoft.design/iconography) to [Excalidraw](https://excalidraw.com/) icons library and the accompanying [Fluent Jot](https://fluentjot.design) web site - [fluentui-icons-to-excalidraw](https://github.com/wictorwilen/fluentui-icons-to-excalidraw). A fully *vibe coded* script and web site, with the aim of not having a human writing a single line of code 🤖.
